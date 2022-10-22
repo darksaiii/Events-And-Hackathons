@@ -544,6 +544,10 @@ The participants get a chance to contribute to numerous projects under the guida
 ### 1- Google Summer of Code [Link](https://summerofcode.withgoogle.com)
 	    Organisation form start  
 ***Google Summer of Code*** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
+
+### 2- SWOC Hackathon [Link](https://devfolio.co/swocs3)
+	    Organisation form start  
+***SWOC Hackathon*** is a hackathon focused on introducing students to take part in tech tech and explore more with peers. 
 </details>
 
 <details>
